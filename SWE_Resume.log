@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.4)  23 JAN 2024 21:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.4)  23 JAN 2024 21:48
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Adnan/Documents/SWE_Resume/SWE_Resume.tex
-(c:/Users/Adnan/Documents/SWE_Resume/SWE_Resume.tex
+**c:/Users/Adnan/Documents/School/SWE_Resume/SWE_Resume.tex
+(c:/Users/Adnan/Documents/School/SWE_Resume/SWE_Resume.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
 (C:\Users\Adnan\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -311,14 +311,14 @@ Package rerunfilecheck Info: File `SWE_Resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10702 strings out of 474587
- 170294 string characters out of 5745702
+ 170357 string characters out of 5745702
  1952558 words of memory out of 5000000
  32739 multiletter control sequences out of 15000+600000
  579859 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,335b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,342b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Adnan/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Adnan/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Adnan/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/Adnan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Adnan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on SWE_Resume.pdf (1 page, 74170 bytes).
+Output written on SWE_Resume.pdf (1 page, 75415 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
